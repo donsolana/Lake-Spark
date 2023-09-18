@@ -1,10 +1,10 @@
-# Implentation of a Data Lake with Spark, Amazon EMR and Amazon S3
+# Implementation of a Data Lake with Spark, Amazon EMR and Amazon S3
 
 ## Introduction
 
 In this project, I implemented a Data Lake storage solution for a music streaming platform. Data Lakes are one of the many ways of storing large volumes of data. Data Lakes provide flexibility as data are stored in their original and raw format. Additionally, good data lakes are built to be highly scalable and fault tolerant. That is, they can handle increasingly large volumes of data and prevent loss during incidents of system failure or disaster. To do this data lakes harness distributed storage and processing. 
 
-In this project, the particular flavour of distributed storage we will use is `Amazon S3` and for processing `Spark` jobs are ran on `Amazon EMR` machines (*EMR are virtual machines purpose built for distributed computing for "big data"*). 
+In this project, the particular flavour of distributed storage we will use is `Amazon S3` and for processing `Spark` jobs are run on `Amazon EMR` machines (*EMR are virtual machines purpose-built for distributed computing for "big data"*). 
 
 
 
